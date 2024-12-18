@@ -1,3 +1,1 @@
-"""Database schema design"""
-
-from mongo import 
+"""Nosql database schema design"""
